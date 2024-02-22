@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-8.3">
+    <CLASSES>
+      <root url="file://$CLASSPATH$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$CLASSPATH$/src/build/java" />
+      <root url="file://$CLASSPATH$/src/demo/java" />
+      <root url="file://$CLASSPATH$/src/generated/java" />
+      <root url="file://$CLASSPATH$/src/legacy/java" />
+      <root url="file://$CLASSPATH$/src/main/core-api/java" />
+      <root url="file://$CLASSPATH$/src/main/core-impl/java" />
+      <root url="file://$CLASSPATH$/src/main/protocol-impl/java" />
+      <root url="file://$CLASSPATH$/src/main/user-api/java" />
+      <root url="file://$CLASSPATH$/src/main/user-impl/java" />
+      <root url="file://$CLASSPATH$/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$CLASSPATH$" recursive="false" />
+  </library>
+</component>
